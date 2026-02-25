@@ -35,5 +35,3 @@ pip install -r requirements.txt
 python webcam_emotion.py
 ```
 
-
-Developed for AI/ML emotion recognition project.
